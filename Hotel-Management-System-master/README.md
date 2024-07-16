@@ -19,8 +19,8 @@ A C++ project that uses OOP concepts and File Handling to store the records of r
 	
 # Screenshots:
 
-![1](/Screenshots/1.png)
+![1](C:\Users\Shubham\OneDrive\Desktop\Hotel mgt sys\Hotel-Management-System-master\Screenshots\1.png)
 
-![2](/Screenshots/2.png)
+![2](C:\Users\Shubham\OneDrive\Desktop\Hotel mgt sys\Hotel-Management-System-master\Screenshots\2.png)
 
-![3](/Screenshots/3.png)
+![3](C:\Users\Shubham\OneDrive\Desktop\Hotel mgt sys\Hotel-Management-System-master\Screenshots\3.png)
