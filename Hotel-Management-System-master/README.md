@@ -21,6 +21,6 @@ A C++ project that uses OOP concepts and File Handling to store the records of r
 
 ![1](https://github.com/anjalijha0807/HOTEL-MANAGEMENT-SYSTEM/blob/main/Hotel-Management-System-master/Screenshots/1.png)
 
-![2](C:\Users\Shubham\OneDrive\Desktop\Hotel mgt sys\Hotel-Management-System-master\Screenshots\2.png)
+![2](https://github.com/anjalijha0807/HOTEL-MANAGEMENT-SYSTEM/blob/main/Hotel-Management-System-master/Screenshots/2.png)
 
 ![3](C:\Users\Shubham\OneDrive\Desktop\Hotel mgt sys\Hotel-Management-System-master\Screenshots\3.png)
