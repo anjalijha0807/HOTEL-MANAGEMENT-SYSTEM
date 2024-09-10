@@ -2,9 +2,6 @@
 	
 	Title			: Hotel Management System
 	Language		: C++
-	Author			: Daljeet Singh Chhabra
-	Date Created	: 16-02-2016
-	Last Modified	: 01-10-2018
 
 */
 
@@ -27,7 +24,7 @@ void intro() {
 	cout<<"��������������������������������������";
 	cout<<"||\t\t\t\t\t\t\t\t\t      ||";
 	cout<<"||\t\t\t\t\t\t\t\t\t      ||";
-	cout<<"||\t\t\t\tDaljeet Singh Chhabra\t\t\t      ||";
+	cout<<"||\t\t\t\t\t\t\t      ||";
 	cout<<"||\t\t\t\t\t\t\t\t\t      ||";
 	cout<<"||\t\t\t\t\t  \t\t\t\t      ||";
 	cout<<"������������������������������������������";
